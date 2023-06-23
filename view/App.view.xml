@@ -1,0 +1,9 @@
+<mvc:View controllerName="project1.controller.App"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Button id="_IDGenButton1" text="Say hello" press=".hello"/>
+    <Button id="_IDGenButton2" text="Say goodbye" press=".goodbye"/>
+    <App id="app">
+    </App>
+</mvc:View>
